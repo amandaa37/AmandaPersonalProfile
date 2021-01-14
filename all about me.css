@@ -1,0 +1,45 @@
+
+body{
+  background-image: url("bush.png");
+}
+h1{
+  color:	white;
+  text-align: center;
+  background-color: #23395d;
+}
+h2{
+  color: #CAD5E3;
+  text-align: center;
+}
+img{
+
+}
+.link{
+  padding:500px;
+}
+h2{
+  color:#23395d;
+  text-align: center;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav{
+  font-size: 20px;
+  padding-left: 100px;
+  background-color:	#d5eaf6;
+}
+.page2{
+  padding-left: 100px;
+}
+.page3{
+  padding-left: 100px;
+}
+.form{
+  padding-left: 100px; }
+
+img {
+  border: 5px solid #d5eaf6;
+}

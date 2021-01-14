@@ -1,0 +1,53 @@
+
+body{
+  background-color: #acdf87;
+}
+
+h1{
+  color:	white;
+  text-align: center;
+  background: #01796F;
+}
+
+ul {
+text-align: center;
+}
+
+li {
+display: inline-block;
+}
+
+body{
+  background-image: url("more-leaves.png");
+
+}
+form{
+  background-color: #77bea0;
+  font-size: 18px;
+}
+
+.link{
+  padding:500px;
+}
+h3{
+  color:white;
+  text-align: center;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav{
+  font-size: 20px;
+  background-color:#77bea0;
+  padding-left: 100px;
+}
+.page2{
+  padding-left: 100px;
+}
+.page3{
+  padding-left: 100px;
+}
+.form{
+  padding-left: 100px; }
